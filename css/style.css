@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+  }
+  
+  .container {
+    background: url('../images/sky-background-hd-wallpaper.jpg') 0 0 no-repeat;
+    background-position: center;
+    height: 2592px;
+    width: 100%;
+  }
+  
+  .crazy_boy {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: -80px;
+    margin: auto;
+    background: url('../images/bird-feathers.png') 0 0 no-repeat;
+    width: 200px;
+    height: 188px;
+    background-size: 600px 564px;
+    transition: top 1s ease;
+  }
